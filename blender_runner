@@ -1,0 +1,3 @@
+PATH_TO_BLENDER=/homes/zl3114/blonder/blonder
+
+$PATH_TO_BLENDER -b ./sample.blend -o //out/render### > render_output.log

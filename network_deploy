@@ -1,0 +1,1 @@
+ssh "graphic28" 'bash -s' < b $1

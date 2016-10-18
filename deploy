@@ -1,0 +1,5 @@
+echo "Deploying job *$1* to graphic28"
+
+cd $1
+
+screen -dm -S scr -L ./blender_runner
