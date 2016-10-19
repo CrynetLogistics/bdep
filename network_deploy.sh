@@ -1,1 +1,1 @@
-ssh "graphic28" 'bash -s' < deploy.sh $1
+ssh "graphic24" 'bash -s' < deploy.sh $1

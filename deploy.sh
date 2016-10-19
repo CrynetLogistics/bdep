@@ -1,4 +1,4 @@
-echo "Deploying job *$1* to graphic28"
+echo "Deploying job *$1* to graphic24"
 
 cd ~/bdep/$1
 
