@@ -1,1 +1,0 @@
-ssh "graphic28" 'bash -s' < deploy $1
